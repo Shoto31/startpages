@@ -1,5 +1,5 @@
-# My custom startpage
-This is a simple, minimal startpage I made to match my desktop's overall theme.
+# Ryō Kurokiba startpage
+Simple and minimal startpage.
 
 ![](https://i.imgur.com/xa4MfWk.png)
 
